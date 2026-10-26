@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "provider_notes": {
+    "prices": "等待首次 GitHub Actions 執行；Stooq 日線資料可能延遲且非保證即時。",
+    "fundamentals": "SEC companyfacts 公開申報資料；個別欄位可能缺值。"
+  },
+  "stocks": {
+    "MSFT": {
+      "ticker": "MSFT",
+      "price": null,
+      "quote": null,
+      "financials": {
+        "annual": [],
+        "quarterly": []
+      },
+      "status": {
+        "price": "pending",
+        "sec": "pending"
+      }
+    },
+    "AAPL": {
+      "ticker": "AAPL",
+      "price": null,
+      "quote": null,
+      "financials": {
+        "annual": [],
+        "quarterly": []
+      },
+      "status": {
+        "price": "pending",
+        "sec": "pending"
+      }
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "price": null,
+      "quote": null,
+      "financials": {
+        "annual": [],
+        "quarterly": []
+      },
+      "status": {
+        "price": "pending",
+        "sec": "pending"
+      }
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,8 @@
+{
+  "tickers": [
+    "MSFT",
+    "AAPL",
+    "NVDA"
+  ],
+  "note": "編輯 tickers 清單可新增或移除要自動匯入的美股代號。"
+}
